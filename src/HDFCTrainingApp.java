@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 class Employee {
-    int id;
-    String name;
-    String department;
-    TrainingModule module;
+    private int id;
+    private String name;
+    private String department;
+    private TrainingModule module;
 
 
     public Employee() {
